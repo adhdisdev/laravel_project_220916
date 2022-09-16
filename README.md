@@ -2,6 +2,8 @@
 
 Egy blog, amit feladatként kaptam.
 
+A teljes projekt a 'blog' mappában található.
+
 ## PRE-FLIGHT CHECKS
 
 Kezdés előtt használatos:
